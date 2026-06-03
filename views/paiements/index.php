@@ -14,7 +14,7 @@
                 <table class="custom-table">
                     <thead>
                         <tr>
-                            <th>#</th>
+                            <th>#0</th>
                             <th>Commande</th>
                             <th>Client</th>
                             <th>Date paiement</th>
